@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Mosams/react-todo-app.git/static/css/main.0905748f.css",
-    "main.js": "/Mosams/react-todo-app.git/static/js/main.0e4f04cf.js",
-    "index.html": "/Mosams/react-todo-app.git/index.html",
-    "main.0905748f.css.map": "/Mosams/react-todo-app.git/static/css/main.0905748f.css.map",
-    "main.0e4f04cf.js.map": "/Mosams/react-todo-app.git/static/js/main.0e4f04cf.js.map"
+    "main.css": "/react-todo-app/static/css/main.0905748f.css",
+    "main.js": "/react-todo-app/static/js/main.ee0ce2bb.js",
+    "index.html": "/react-todo-app/index.html",
+    "main.0905748f.css.map": "/react-todo-app/static/css/main.0905748f.css.map",
+    "main.ee0ce2bb.js.map": "/react-todo-app/static/js/main.ee0ce2bb.js.map"
   },
   "entrypoints": [
     "static/css/main.0905748f.css",
-    "static/js/main.0e4f04cf.js"
+    "static/js/main.ee0ce2bb.js"
   ]
 }
